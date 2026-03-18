@@ -1,0 +1,8 @@
+# dependencies / run with npm install to recreate
+node_modules/
+
+# environment variables / contain sensitive API keys
+.env
+
+# tracks exact dependency versions (optional in .gitignore)
+package-lock.json
